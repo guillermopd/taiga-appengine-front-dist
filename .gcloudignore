@@ -1,0 +1,9 @@
+.gcloudignore
+.gitignore
+.idea/
+dist/conf.example.json
+README.md
+package.json
+package-lock.json
+generate.sh
+.node-version
